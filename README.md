@@ -1,5 +1,5 @@
 # Hello!
-I am a 'to be' programmer currently about to enter my last year of secondary school
+I am a 15 year old programming enthusiast that makes projects in my free time
 
 I have alot of experience in python, and can use C++ to a lower degree
 
